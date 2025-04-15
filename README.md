@@ -9,7 +9,7 @@
   - 📹 [YouTube – @Eden_Eldith](https://www.youtube.com/@eden_eldith)  
 - 😄 Pronouns: he/him  
 - ⚡I’m a 183cm, 105kg tinkerer who built a recursive cognitive architecture while living in a garage, surviving on determination, beauty, and a modest £13k/year budget from Universal Credit and Personal Independence Payment. As someone navigating the world with neurodivergence (including autism, ADHD, and other conditions), these challenges have shaped my approach to problem-solving, creativity, and resilience.
-Creator of UMACO (Universal Multi-Agent Cognitive Optimization). Recursive AI systems, swarm cognition, and cognitive architecture.
+- **Creator of UMACO (Universal Multi-Agent Cognitive Optimization). Recursive AI systems, swarm cognition, and cognitive architecture.**
 ---
 
 
