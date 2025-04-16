@@ -13,6 +13,4 @@
 ---
 
 
-<!---
 <meta name="google-site-verification" content="-6FNdOumpVbsmLugrVSX7Zxf2KIt4OgBInpTQh1GLyE" />
---->
