@@ -80,7 +80,7 @@ For collaboration, consultation, or just to chat
 
 ## 🤝 Engage with My Work
 
-My lab is an active research environment. If you're a founder, researcher, or systems architect looking to push the boundaries of AI cognition, computational physics, or ecological modeling, I offer several tiers of engagement — from patronage contributions to bespoke framework development.
+My lab is an active research environment. If you're a founder, researcher, or systems architect looking to push the boundaries of AI cognition, computational physics, or ecological modelling, I offer several tiers of engagement — from patronage contributions to bespoke framework development.
 
 Feel free to reach out via email or through the Cognitive Garden.
 
